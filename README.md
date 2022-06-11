@@ -1,8 +1,6 @@
 Rachel Lee
 
-Bryn Mawr College, CMSC B325 Intro to Artificial Intelligence
-
-Professor Deepak Kumar
+Bryn Mawr College, CMSC B325 Intro to Artificial Intelligence, Professor Deepak Kumar
 
 Final Project
 
