@@ -2,7 +2,7 @@ Rachel Lee
 
 Bryn Mawr College, CMSC B325 Intro to Artificial Intelligence, Professor Deepak Kumar
 
-Final Project
+Final Project: Konane
 
 # Background
 Konane, aka Hawaiian checkers, is a 2 player oppositional game consisting of a gameboard of black and white pieces. Players take turns making a move, where they must jump over/eat their opponent's pieces. To win, one player must create a gameboard where the opponent has no moves left on their turn.
