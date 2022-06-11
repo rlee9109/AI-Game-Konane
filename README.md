@@ -10,7 +10,7 @@ Konane, aka Hawaiian checkers, is a 2 player oppositional game consisting of a g
 # Goal
 Develop an AI gameplaying program that uses heuristics to outperform both human and other AI players. 
 
-# Files Includes
+# Files Included
   - game.py: This file is the Game object class. This includes actually running an instance of the game and maintaining all of the instantial details, logic, algorithms, players, etc.
   - gameState.py: This file is the GameState object class, which is used to maintain internal representation of the game board.
   - konane.py: This file is the driver program. Run this file to play the game in the cmd terminal.
